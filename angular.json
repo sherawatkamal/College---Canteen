@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ansal-Canteen"
+    }
+  },
+  "defaultProject": "Ansal-Canteen",
+  "cli": {
+    "analytics": "6f68c87c-5bfe-4778-9ab7-9ea2e0b9ad38"
+  }
 }
